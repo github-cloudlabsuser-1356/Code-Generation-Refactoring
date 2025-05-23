@@ -1,0 +1,36 @@
+# Compiled binary files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+/SimpleNetCoreApp/bin
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.csproj.user
+
+# Dependency directories
+packages/
+node_modules/
+
+# Publish output
+publish/
